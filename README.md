@@ -4,16 +4,17 @@
 
 # Hi there 👋
 
-My name is Patricia Gonzalez and I'm a Graduate Software Developer. I'm from 🇪🇸, living in the 🇬🇧 and currently working at IBM.
+I'm **Patricia Gonzalez**, also known as **Bondcoder**. I’m a passionate Software Engineer originally from 🇪🇸 (currently living in 🇱🇻 && working for a 🇬🇧 company), and coding my way through the tech world at **GoCardless**. 
 
-## 💃 In my spare time I like to...
+### 💡 What gets me excited?
+- Exploring new technologies, solving complex problems, and improving my craft as a developer.
+- In my **spare time**, I create content to **teach Solidity in Spanish**. Check out my channel [here](https://www.youtube.com/channel/UClLDpiKNosVQWp4xq_83_Ww).
+- I also love to snap tech-related photos and share them on my [Instagram](https://www.instagram.com/bondcoder/). Follow me to catch glimpses of my coding life and behind-the-scenes stories!
 
-- record videos to teach Solidity in Spanish. You can find my channel [here](https://www.youtube.com/channel/UClLDpiKNosVQWp4xq_83_Ww).
-- travel the world with my other half.
-- learn how to draw on ProCreate. I invite you to check [this channel](https://www.youtube.com/c/ArtwithFlo) if you want to learn how to draw too!
-- take pictures to post on my techie [Instagram](https://www.instagram.com/bondcoder/).
+---
 
 ## 🔧 Technologies & Tools
+
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -27,3 +28,10 @@ My name is Patricia Gonzalez and I'm a Graduate Software Developer. I'm from �
 ![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
+
+---
+
+### 🌍 Find me on:
+- 📺 [YouTube](https://www.youtube.com/channel/UClLDpiKNosVQWp4xq_83_Ww) (Solidity tutorials in Spanish)
+- 📸 [Instagram](https://www.instagram.com/bondcoder/) (Tech adventures and more!)
+- 🐦 [Twitter](https://twitter.com/BondCoder) (Tech thoughts, updates, and coding life)
